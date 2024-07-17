@@ -1,11 +1,11 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "VSCode Dark Modern",
+  "name": "VSCode Light Modern",
   "author": "kcamcam",
   "themes": [
     {
-      "name": "VSCode Dark Modern",
-      "appearance": "dark",
+      "name": "VSCode Light Modern",
+      "appearance": "light",
       "style": {
         "background.appearance": "opaque",
         "border": "#2B2B2B",
