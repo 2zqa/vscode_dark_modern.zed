@@ -1,7 +1,7 @@
 id = "vscode-light-modern"
-name = "VSCode Light Modern"
+name = "VSCode Modern Themes"
 version = "0.0.3"
 schema_version = 1
 authors = ["kcamcam <kevincamellini@gmail.com>", "2zqa"]
-description = "VSCode Light Modern Theme for Zed"
+description = "VSCode Modern themes for Zed"
 repository = "https://github.com/kcamcam/vscode_light_modern.zed"
