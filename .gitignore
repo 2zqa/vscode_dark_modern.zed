@@ -1,7 +1,14 @@
+# VSCode default theme files
 hc_light.json
 light_modern.json
 light_plus.json
 light_vs.json
-vscode-light-modern-theme-importer.json
+hc_black.json
+dark_modern.json
+dark_vs.json
+dark_plus.json
+dark_vscode.json
 
+# Script output files
+vscode-light-modern-theme-importer.json
 *_merged.json
