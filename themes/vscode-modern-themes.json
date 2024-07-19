@@ -346,7 +346,7 @@
         "background": "#FFFFFF",
         "element.background": "#005FB8",
         "element.hover": "#F2F2F2",
-        "element.active": null,
+        "element.active": "#0258a8",
         "element.selected": "#E8E8E8",
         "element.disabled": null,
         "drop_target.background": null,
